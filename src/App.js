@@ -1,9 +1,10 @@
-import SimpleInput from './components/SimpleInput';
+import CustomForm from './components/CustomForm';
 
 function App() {
+
   return (
     <div className="app">
-      <SimpleInput />
+      <CustomForm />
     </div>
   );
 }
